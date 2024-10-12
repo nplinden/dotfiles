@@ -1,0 +1,20 @@
+{
+    "vim.insertModeKeyBindings": [
+    {
+      "before": ["k", "j"],
+      "after": ["<Esc>"]
+    }
+],
+"vim.useSystemClipboard": true,
+"vim.hlsearch": true,
+"vim.easymotion": true,
+"python.languageServer": "Pylance",
+"testing.coverageToolbarEnabled": true,
+"coverage-gutters.coverageReportFileName": "htmlcov/index.html",
+"clock.dateFormat": "HH:MM",
+"workbench.iconTheme": "material-icon-theme",
+"git.confirmSync": false,
+"git.autofetch": true,
+"window.customTitleBarVisibility": "auto",
+"window.titleBarStyle": "custom"
+}
